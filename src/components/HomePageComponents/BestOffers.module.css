@@ -1,0 +1,27 @@
+.bestoffer-container {
+  height: 40vh;
+  width: 100%;
+  margin-bottom: 40px;
+}
+
+.center {
+  text-align: center;
+}
+
+.parentContainer {
+  display: flex;
+  width: 100%;
+  height: 60%;
+  background: rgb(196, 194, 194);
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 40px;
+}
+.offer-box {
+  border: 4px solid blue;
+  text-decoration: none;
+  color: black;
+  flex: 1;
+  margin: 1.25rem;
+  height: 80%;
+}
