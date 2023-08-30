@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/abhicares/admin/dashboard/static/css/main.67efb704.css",
+    "main.js": "/abhicares/admin/dashboard/static/js/main.3ffb5871.js",
+    "static/js/787.28cb0dcd.chunk.js": "/abhicares/admin/dashboard/static/js/787.28cb0dcd.chunk.js",
+    "static/media/bulb.jpg": "/abhicares/admin/dashboard/static/media/bulb.f9f8cab71abf44f0800c.jpg",
+    "static/media/HomePainting.jpg": "/abhicares/admin/dashboard/static/media/HomePainting.52bcc9db81d659156a9b.jpg",
+    "static/media/swtich.jpg": "/abhicares/admin/dashboard/static/media/swtich.0aeb73845349898182c1.jpg",
+    "static/media/fan.jpg": "/abhicares/admin/dashboard/static/media/fan.7dd180d1795fdc860908.jpg",
+    "static/media/disinfectant.jpg": "/abhicares/admin/dashboard/static/media/disinfectant.f47a25a06b432c1c6ffd.jpg",
+    "static/media/Cleaning.jpg": "/abhicares/admin/dashboard/static/media/Cleaning.e9157e036df8667adb9d.jpg",
+    "static/media/HomeService.jpg": "/abhicares/admin/dashboard/static/media/HomeService.e9157e036df8667adb9d.jpg",
+    "static/media/img.png": "/abhicares/admin/dashboard/static/media/img.1523f4b7684c3a2819c6.png",
+    "static/media/Appliance Repair.jpeg": "/abhicares/admin/dashboard/static/media/Appliance Repair.4e1a568c1a52504f47e9.jpeg",
+    "static/media/logo .png": "/abhicares/admin/dashboard/static/media/logo .028ba52aab43fe736953.png",
+    "static/media/PersonalCare.jpeg": "/abhicares/admin/dashboard/static/media/PersonalCare.0df62dbb996e9a8b8c21.jpeg",
+    "static/media/empty-cart.png": "/abhicares/admin/dashboard/static/media/empty-cart.f70a01629a82e2c4c310.png",
+    "index.html": "/abhicares/admin/dashboard/index.html",
+    "main.67efb704.css.map": "/abhicares/admin/dashboard/static/css/main.67efb704.css.map",
+    "main.3ffb5871.js.map": "/abhicares/admin/dashboard/static/js/main.3ffb5871.js.map",
+    "787.28cb0dcd.chunk.js.map": "/abhicares/admin/dashboard/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67efb704.css",
+    "static/js/main.3ffb5871.js"
+  ]
+}
